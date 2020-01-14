@@ -51,6 +51,9 @@ margin-right: auto;
 }
 
 a.glo{
+ position: fixed;
+ bottom: 1;
+ left: 1;
  color:#00c6ff;
  padding: 10px 20px;
  width:100px;
